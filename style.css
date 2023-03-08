@@ -25,9 +25,10 @@ img {
 }
 
 main {
-    display: flex;
+    display: grid;
     justify-content: center;
     align-items: center;
+    min-height: 100vh; 
 }
 
 .container {
@@ -35,7 +36,6 @@ main {
     border-radius: 5%;
     max-width: 350px;
     box-shadow: 5px 5px 30px var(--Grayish-blue);
-    margin-top: 80px;
 }
 
 h1 {

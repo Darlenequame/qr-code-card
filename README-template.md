@@ -16,3 +16,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 I got some help here https://coryrylan.com/blog/how-to-center-in-css-with-flexbox
+@/*Credits @0xAbdulKhalid*/
